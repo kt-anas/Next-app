@@ -1,0 +1,27 @@
+/* Nav.module.css */
+.navbar {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  .navbarUl {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .navbarLi {
+    margin: 0;
+  }
+  
+  .navbarLink {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .navbarLink:hover {
+    text-decoration: underline;
+  }
+  
